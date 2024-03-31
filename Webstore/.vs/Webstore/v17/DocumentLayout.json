@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\RS2repo\\RS2\\Webstore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\data\\catalogcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\data\\icatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\data\\icatalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|e:\\rs2repo\\rs2\\webstore\\services\\catalog\\catalog.api\\catalog.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B27DFE7E-522B-48BD-9128-666BE1D32324}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T19:02:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatalogContextSeed.cs",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Data\\CatalogContextSeed.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Data\\CatalogContextSeed.cs",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Data\\CatalogContextSeed.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Data\\CatalogContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T01:22:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogContext.cs",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Data\\CatalogContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Data\\CatalogContext.cs",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Data\\CatalogContext.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Data\\CatalogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T00:51:11.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICatalogContext.cs",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Data\\ICatalogContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Data\\ICatalogContext.cs",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Data\\ICatalogContext.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Data\\ICatalogContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T00:49:22.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Entities\\Product.cs",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Entities\\Product.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Entities\\Product.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:37:06.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Catalog.API.csproj",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T23:17:35.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Catalog.API",
+              "DocumentMoniker": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "E:\\RS2repo\\RS2\\Webstore\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T15:58:44.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
